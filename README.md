@@ -1,15 +1,13 @@
-http://drupal.org/project/examples
-
 Brief?
 -------------
+Create a website that is user friendly and visually appealing.
+Inspired by:
 
 
 
-Technology
+Technology?
 -----------------------
+HTML CSS JavaScript Angular Typescript
 
 
-
-Goal
---------------------------
 
