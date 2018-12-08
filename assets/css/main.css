@@ -1,0 +1,23 @@
+body, html {
+    height: 100% !important;
+    width: 100% !important;
+}
+
+/* Banner elements and components styling */
+.banner__slide .jumbotron.jumbotron-fluid {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.jumbotron {
+    background-image: url('assets/img/banner-img.jpg');
+}
+
+
+
+/* Custom utilities */
+.btn-flat-radius {
+    border-radius: 0px !important;
+}
